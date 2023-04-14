@@ -10,7 +10,7 @@ Its an Ecommerce API to manage product inventory
 > ***Install project with npm***       
 
 ```bash
-  cd EcommerceAPI_CN
+  cd Food APp API
   npm install
   npm install nodemon
 
